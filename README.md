@@ -9,6 +9,8 @@
 - CH343SER.ZIP  —— 驱动
 - WCH-LinkUtility.ZIP  —— 本地烧录工具
 - WCHISPTool Setup.exe  ——单片机编程工具(暂未使用)
+- Demo 必须搭配SRC使用，否则会缺少驱动文件，可根据需要裁剪demo文件
+- SRC 官方的驱动文件，需要将SRC和Demo放在同一路径或自定义路径，后续会说如何自定义
+
 
 用户需自己下载MounRiver_Studio，这款IDE集成了上述的WCH-LinkUtility并且可以编译程序.
-
