@@ -29,19 +29,40 @@
 - MounRiver_Studio使用教程(本文只演示Demo案例，具体详细查询官网)
 
 主界面:
+
 <img width="1920" height="996" alt="Image" src="https://github.com/user-attachments/assets/960f4694-5d50-43c4-9f65-f067ec5683a4" />
+
+
 打开工程文件：
+
 <img width="959" height="600" alt="Image" src="https://github.com/user-attachments/assets/9b9fa999-292c-416d-b29b-1ce1a4fd6fd4" />
+
+
 点击工具，进入烧录工具
+
 <img width="1326" height="779" alt="Image" src="https://github.com/user-attachments/assets/4179f4bb-618f-4df8-aea9-66f8086b48f7" />
+
+
 可以更改语言，支持中英文
+
 <img width="756" height="884" alt="Image" src="https://github.com/user-attachments/assets/74727fc7-6165-4cf1-9117-3287219e6ca7" />
+
+
 选择好芯片的架构和型号，一定看仔细了，点击获取WCH-Link的模式
+
 <img width="815" height="950" alt="Image" src="https://github.com/user-attachments/assets/4601f3a8-4956-42c5-9489-c6e7bd3723c1" />
+
+
 如果模式不是WCH-LinkRV，更改模式，然后设置
+
 <img width="816" height="220" alt="Image" src="https://github.com/user-attachments/assets/9523d733-684a-4451-a285-35373fa646ac" />
+
+
 提示处于RISC-V模式，此时的烧录器只会亮红灯，说明设置成功。
+
 <img width="789" height="186" alt="Image" src="https://github.com/user-attachments/assets/11c21818-2d6b-4ec8-bfaa-bd74e6083c42" />
+
+
 
 配置好烧录器后，就可以开始跑例程源码了，首先确保SRC的路径是否正确。先确保SRC和Demo在同一个路径下面。驱动文件的相对路径举例(其中之一)：..\SRC\Startup，根据需求后续可自行修改。
 
