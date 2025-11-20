@@ -94,7 +94,10 @@ English version: [README_EN.md](README_EN.md)
 > **常见问题排查**：若烧录失败，检查驱动安装、模式切换和连接线缆；若无串口输出，验证波特率和交叉连接。更多细节请查阅官方文档。
 
 ## 官方资料
-- 沁恒官网下载中心：https://www.wch.cn/downloads/category/27.html（包含数据手册、SDK 和工具更新）。
+- 沁恒官网下载中心：https://www.wch.cn/downloads/category/27.html
+
+（包含数据手册、SDK 和工具更新）。
+
 - 沁恒官网CH32V307专区：https://www.wch.cn/products/CH32V307.html
 - 所有资料&SDK下载：https://www.wch.cn/downloads/category/27.html
 
