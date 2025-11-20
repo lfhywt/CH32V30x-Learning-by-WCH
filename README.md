@@ -1,3 +1,6 @@
+English version: [README_EN.md](README_EN.md)
+
+
 # 沁恒-CH32V30x系列
 芯片型号:CH32V307VCT6 开发板型号:CH32F207&V307V-R3-2v0
 
