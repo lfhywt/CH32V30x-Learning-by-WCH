@@ -14,7 +14,9 @@ English version: [README_EN.md](README_EN.md)
 - **Demo** —— 官方演示工程文件夹，必须与 SRC 文件夹搭配使用，否则将缺少必要的外设驱动和启动文件。根据实际需求，可对 Demo 文件进行裁剪优化。
 - **SRC** —— 官方提供的驱动文件库，包括外设驱动、启动代码等。建议将 SRC 和 Demo 置于同一路径下，或在工程设置中自定义包含路径（详见后续步骤）。
 
-用户需自行下载并安装 **MounRiver Studio** IDE，该工具集成了 WCH-LinkUtility 烧录功能，并支持代码编译、调试。官方下载地址：https://www.mounriver.com/download。安装前，请确保系统兼容性（Windows/macOS/Linux 支持），并安装必要的驱动。
+用户需自行下载并安装 **MounRiver Studio** IDE，该工具集成了 WCH-LinkUtility 烧录功能，并支持代码编译、调试。官方下载地址：https://www.mounriver.com/download。
+
+安装前，请确保系统兼容性（Windows/macOS/Linux 支持），并安装必要的驱动。
 
 > **注意**：Demo 和 SRC 的结合使用是工程编译成功的关键。如果路径配置错误，将导致链接错误或外设初始化失败。请严格按照本教程步骤操作。
 
