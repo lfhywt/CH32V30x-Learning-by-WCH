@@ -9,3 +9,6 @@
 - CH343SER.ZIP  —— 驱动
 - WCH-LinkUtility.ZIP  —— 本地烧录工具
 - WCHISPTool Setup.exe  ——单片机编程工具(暂未使用)
+
+用户需自己下载MounRiver_Studio，这款IDE集成了上述的WCH-LinkUtility并且可以编译程序.
+
