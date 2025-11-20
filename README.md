@@ -1,5 +1,5 @@
 # 沁恒-CH32V30x系列
-芯片型号:CH32V307VCT6 开发板型号:CH32F207&amp;V307V-R3-2v0
+芯片型号:CH32V307VCT6 开发板型号:CH32F207&V307V-R3-2v0
 
 
 本文将描述如何从拿到开发板到跑通的教程
@@ -23,5 +23,9 @@
 - 烧录器
 ![Image](https://github.com/user-attachments/assets/3ab54ca3-66f0-48ea-b7f7-0d5fe531eac1)
 
+使用杜邦线将开发板的SWCK，SWIO，GND，VDD ，TXD，RXD与烧录器相连，注意开发板与烧录器的TX和RX需要交叉连接，即(开发板TX)->(烧录器RX)，(开发板RX)->(烧录器TX).使用type-C 给开发板供电，如下图所示：
 
+
+- MounRiver_Studio
+<img width="1920" height="996" alt="Image" src="https://github.com/user-attachments/assets/960f4694-5d50-43c4-9f65-f067ec5683a4" />
 <img width="959" height="600" alt="Image" src="https://github.com/user-attachments/assets/9b9fa999-292c-416d-b29b-1ce1a4fd6fd4" />
