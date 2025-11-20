@@ -80,4 +80,20 @@
 <img width="555" height="250" alt="Image" src="https://github.com/user-attachments/assets/f5432ce4-3afd-4cde-9c01-c2791b580d58" />
 
 
+此时程序已经成功烧录到开发板中，打开串口助手查看
+
+<img width="1295" height="820" alt="Image" src="https://github.com/user-attachments/assets/d308450e-9a4b-4815-a52b-aa5788207714" />
+
+
+设置
+
+<img width="1371" height="869" alt="Image" src="https://github.com/user-attachments/assets/860e0fb3-df79-46e7-aa45-7a72fa936805" />
+
+
+运行成功
+
+<img width="1371" height="869" alt="Image" src="https://github.com/user-attachments/assets/53f5bde5-7962-47c1-9ba8-2fd41b9aa5e8" />
+
+
+官网资料：https://www.wch.cn/downloads/category/27.html
 
