@@ -16,8 +16,12 @@
 用户需自己下载MounRiver_Studio，这款IDE集成了上述的WCH-LinkUtility并且可以编译程序.
 
 ## 硬件说明
+- 开发板
 ![Image](https://github.com/user-attachments/assets/58398197-f396-463e-98c0-bb40362a0bd7)
 
+
+- 烧录器
 ![Image](https://github.com/user-attachments/assets/3ab54ca3-66f0-48ea-b7f7-0d5fe531eac1)
+
 
 <img width="959" height="600" alt="Image" src="https://github.com/user-attachments/assets/9b9fa999-292c-416d-b29b-1ce1a4fd6fd4" />
