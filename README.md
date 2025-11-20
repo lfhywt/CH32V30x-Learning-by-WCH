@@ -64,5 +64,20 @@
 
 
 
-配置好烧录器后，就可以开始跑例程源码了，首先确保SRC的路径是否正确。先确保SRC和Demo在同一个路径下面。驱动文件的相对路径举例(其中之一)：..\SRC\Startup，根据需求后续可自行修改。
+配置好烧录器后，就可以开始跑例程源码了，首先确保SRC的路径是否正确。先确保SRC和Demo在同一个目录下面。驱动文件的相对路径举例(其中之一)：..\SRC\Startup，根据需求后续可自行修改。
+<img width="624" height="199" alt="Image" src="https://github.com/user-attachments/assets/3d36037d-3bd1-4fc0-b258-90f32c934341" />
+
+三种模式，根据自己需求
+
+<img width="1271" height="825" alt="Image" src="https://github.com/user-attachments/assets/17b1ff11-c98e-4288-8a33-7ef1955f2c8f" />
+
+编译成功
+
+<img width="738" height="219" alt="Image" src="https://github.com/user-attachments/assets/e2dd20a8-2403-4f7a-b53b-805bb829a4e2" />
+
+烧录成功
+
+<img width="555" height="250" alt="Image" src="https://github.com/user-attachments/assets/f5432ce4-3afd-4cde-9c01-c2791b580d58" />
+
+
 
